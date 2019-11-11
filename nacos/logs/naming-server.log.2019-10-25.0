@@ -1,0 +1,453 @@
+2019-10-25 20:05:29,505 INFO listen for service meta change
+
+2019-10-25 20:05:41,791 INFO [SERVER-INIT] got port: 9949
+
+2019-10-25 20:05:41,791 INFO [SERVER-INIT] got path: /nacos
+
+2019-10-25 20:05:48,829 INFO receive config info: unknown#192.168.15.25:9949#1572005148829#2
+
+
+2019-10-25 20:06:03,830 INFO [NACOS-DISTRO] healthy server list changed, disable health check for 60000 ms from now on, old: [], new: [{"adWeight":0,"alive":true,"ip":"192.168.15.25","key":"192.168.15.25:9949","lastRefTime":1572005148829,"lastRefTimeStr":"2019-10-25 20:05:48","servePort":9949,"site":"unknown","weight":2}]
+
+2019-10-25 20:06:03,830 INFO receive config info: unknown#192.168.15.25:9949#1572005163830#2
+
+
+2019-10-25 20:06:18,834 INFO receive config info: unknown#192.168.15.25:9949#1572005178833#2
+
+
+2019-10-25 20:07:44,165 INFO listen for service meta change
+
+2019-10-25 20:07:51,568 INFO [SERVER-INIT] got port: 9949
+
+2019-10-25 20:07:51,568 INFO [SERVER-INIT] got path: /nacos
+
+2019-10-25 20:08:03,908 INFO receive config info: unknown#192.168.15.25:9949#1572005283908#2
+
+
+2019-10-25 20:08:18,910 INFO [NACOS-DISTRO] healthy server list changed, disable health check for 60000 ms from now on, old: [], new: [{"adWeight":0,"alive":true,"ip":"192.168.15.25","key":"192.168.15.25:9949","lastRefTime":1572005283908,"lastRefTimeStr":"2019-10-25 20:08:03","servePort":9949,"site":"unknown","weight":2}]
+
+2019-10-25 20:08:18,910 INFO receive config info: unknown#192.168.15.25:9949#1572005298910#2
+
+
+2019-10-25 20:08:33,913 INFO receive config info: unknown#192.168.15.25:9949#1572005313913#2
+
+
+2019-10-25 20:08:48,915 INFO receive config info: unknown#192.168.15.25:9949#1572005328915#2
+
+
+2019-10-25 20:09:03,917 INFO receive config info: unknown#192.168.15.25:9949#1572005343917#2
+
+
+2019-10-25 20:09:18,922 INFO [NACOS-DISTRO] distro threshold restored and stable now, enable health check. current ratio: 1.0
+
+2019-10-25 20:09:18,922 INFO receive config info: unknown#192.168.15.25:9949#1572005358922#2
+
+
+2019-10-25 20:09:33,924 INFO receive config info: unknown#192.168.15.25:9949#1572005373924#2
+
+
+2019-10-25 20:09:48,926 INFO receive config info: unknown#192.168.15.25:9949#1572005388926#2
+
+
+2019-10-25 20:10:03,928 INFO receive config info: unknown#192.168.15.25:9949#1572005403928#2
+
+
+2019-10-25 20:10:18,930 INFO receive config info: unknown#192.168.15.25:9949#1572005418930#2
+
+
+2019-10-25 20:10:33,932 INFO receive config info: unknown#192.168.15.25:9949#1572005433932#2
+
+
+2019-10-25 20:10:48,933 INFO receive config info: unknown#192.168.15.25:9949#1572005448933#2
+
+
+2019-10-25 20:11:03,935 INFO receive config info: unknown#192.168.15.25:9949#1572005463935#2
+
+
+2019-10-25 20:11:18,937 INFO receive config info: unknown#192.168.15.25:9949#1572005478937#2
+
+
+2019-10-25 20:11:33,939 INFO receive config info: unknown#192.168.15.25:9949#1572005493939#2
+
+
+2019-10-25 20:11:48,941 INFO receive config info: unknown#192.168.15.25:9949#1572005508941#2
+
+
+2019-10-25 20:12:03,943 INFO receive config info: unknown#192.168.15.25:9949#1572005523943#2
+
+
+2019-10-25 20:12:18,945 INFO receive config info: unknown#192.168.15.25:9949#1572005538945#2
+
+
+2019-10-25 20:12:33,947 INFO receive config info: unknown#192.168.15.25:9949#1572005553947#2
+
+
+2019-10-25 20:12:48,949 INFO receive config info: unknown#192.168.15.25:9949#1572005568949#2
+
+
+2019-10-25 20:13:03,951 INFO receive config info: unknown#192.168.15.25:9949#1572005583951#2
+
+
+2019-10-25 20:13:18,953 INFO receive config info: unknown#192.168.15.25:9949#1572005598953#2
+
+
+2019-10-25 20:13:33,955 INFO receive config info: unknown#192.168.15.25:9949#1572005613955#2
+
+
+2019-10-25 20:13:48,956 INFO receive config info: unknown#192.168.15.25:9949#1572005628956#2
+
+
+2019-10-25 20:14:03,958 INFO receive config info: unknown#192.168.15.25:9949#1572005643958#2
+
+
+2019-10-25 20:14:18,960 INFO receive config info: unknown#192.168.15.25:9949#1572005658960#2
+
+
+2019-10-25 20:14:33,962 INFO receive config info: unknown#192.168.15.25:9949#1572005673962#2
+
+
+2019-10-25 20:14:48,964 INFO receive config info: unknown#192.168.15.25:9949#1572005688964#2
+
+
+2019-10-25 20:15:03,966 INFO receive config info: unknown#192.168.15.25:9949#1572005703966#2
+
+
+2019-10-25 20:15:18,968 INFO receive config info: unknown#192.168.15.25:9949#1572005718968#2
+
+
+2019-10-25 20:15:33,969 INFO receive config info: unknown#192.168.15.25:9949#1572005733969#2
+
+
+2019-10-25 20:15:48,971 INFO receive config info: unknown#192.168.15.25:9949#1572005748971#2
+
+
+2019-10-25 20:16:03,973 INFO receive config info: unknown#192.168.15.25:9949#1572005763973#2
+
+
+2019-10-25 20:16:18,975 INFO receive config info: unknown#192.168.15.25:9949#1572005778975#2
+
+
+2019-10-25 20:16:33,977 INFO receive config info: unknown#192.168.15.25:9949#1572005793977#2
+
+
+2019-10-25 20:16:48,979 INFO receive config info: unknown#192.168.15.25:9949#1572005808979#2
+
+
+2019-10-25 20:17:03,981 INFO receive config info: unknown#192.168.15.25:9949#1572005823981#2
+
+
+2019-10-25 20:17:18,983 INFO receive config info: unknown#192.168.15.25:9949#1572005838983#2
+
+
+2019-10-25 20:17:33,984 INFO receive config info: unknown#192.168.15.25:9949#1572005853984#2
+
+
+2019-10-25 20:17:48,986 INFO receive config info: unknown#192.168.15.25:9949#1572005868986#2
+
+
+2019-10-25 20:18:03,988 INFO receive config info: unknown#192.168.15.25:9949#1572005883988#2
+
+
+2019-10-25 20:18:18,990 INFO receive config info: unknown#192.168.15.25:9949#1572005898990#2
+
+
+2019-10-25 20:18:33,992 INFO receive config info: unknown#192.168.15.25:9949#1572005913992#2
+
+
+2019-10-25 20:18:48,993 INFO receive config info: unknown#192.168.15.25:9949#1572005928993#2
+
+
+2019-10-25 20:19:03,995 INFO receive config info: unknown#192.168.15.25:9949#1572005943995#2
+
+
+2019-10-25 20:19:18,997 INFO receive config info: unknown#192.168.15.25:9949#1572005958997#2
+
+
+2019-10-25 20:19:33,999 INFO receive config info: unknown#192.168.15.25:9949#1572005973999#2
+
+
+2019-10-25 20:19:49,001 INFO receive config info: unknown#192.168.15.25:9949#1572005989001#2
+
+
+2019-10-25 20:20:04,003 INFO receive config info: unknown#192.168.15.25:9949#1572006004003#2
+
+
+2019-10-25 20:20:19,005 INFO receive config info: unknown#192.168.15.25:9949#1572006019005#2
+
+
+2019-10-25 20:20:34,006 INFO receive config info: unknown#192.168.15.25:9949#1572006034006#2
+
+
+2019-10-25 20:20:49,006 INFO receive config info: unknown#192.168.15.25:9949#1572006049006#2
+
+
+2019-10-25 20:21:04,005 INFO receive config info: unknown#192.168.15.25:9949#1572006064005#2
+
+
+2019-10-25 20:21:19,004 INFO receive config info: unknown#192.168.15.25:9949#1572006079004#2
+
+
+2019-10-25 20:21:34,007 INFO receive config info: unknown#192.168.15.25:9949#1572006094007#2
+
+
+2019-10-25 20:21:49,009 INFO receive config info: unknown#192.168.15.25:9949#1572006109009#2
+
+
+2019-10-25 20:22:04,010 INFO receive config info: unknown#192.168.15.25:9949#1572006124010#2
+
+
+2019-10-25 20:22:19,011 INFO receive config info: unknown#192.168.15.25:9949#1572006139011#2
+
+
+2019-10-25 20:22:34,013 INFO receive config info: unknown#192.168.15.25:9949#1572006154013#2
+
+
+2019-10-25 20:22:49,015 INFO receive config info: unknown#192.168.15.25:9949#1572006169015#2
+
+
+2019-10-25 20:23:04,017 INFO receive config info: unknown#192.168.15.25:9949#1572006184017#2
+
+
+2019-10-25 20:23:19,019 INFO receive config info: unknown#192.168.15.25:9949#1572006199019#2
+
+
+2019-10-25 20:23:34,021 INFO receive config info: unknown#192.168.15.25:9949#1572006214021#2
+
+
+2019-10-25 20:23:49,023 INFO receive config info: unknown#192.168.15.25:9949#1572006229023#2
+
+
+2019-10-25 20:24:04,025 INFO receive config info: unknown#192.168.15.25:9949#1572006244025#2
+
+
+2019-10-25 20:24:19,027 INFO receive config info: unknown#192.168.15.25:9949#1572006259027#2
+
+
+2019-10-25 20:24:34,029 INFO receive config info: unknown#192.168.15.25:9949#1572006274029#2
+
+
+2019-10-25 20:24:49,031 INFO receive config info: unknown#192.168.15.25:9949#1572006289031#2
+
+
+2019-10-25 20:25:04,033 INFO receive config info: unknown#192.168.15.25:9949#1572006304033#2
+
+
+2019-10-25 20:25:19,035 INFO receive config info: unknown#192.168.15.25:9949#1572006319035#2
+
+
+2019-10-25 20:25:34,037 INFO receive config info: unknown#192.168.15.25:9949#1572006334037#2
+
+
+2019-10-25 20:25:49,039 INFO receive config info: unknown#192.168.15.25:9949#1572006349039#2
+
+
+2019-10-25 20:26:04,041 INFO receive config info: unknown#192.168.15.25:9949#1572006364041#2
+
+
+2019-10-25 20:26:19,043 INFO receive config info: unknown#192.168.15.25:9949#1572006379043#2
+
+
+2019-10-25 20:26:34,046 INFO receive config info: unknown#192.168.15.25:9949#1572006394046#2
+
+
+2019-10-25 20:26:49,048 INFO receive config info: unknown#192.168.15.25:9949#1572006409048#2
+
+
+2019-10-25 20:27:04,050 INFO receive config info: unknown#192.168.15.25:9949#1572006424050#2
+
+
+2019-10-25 20:27:19,052 INFO receive config info: unknown#192.168.15.25:9949#1572006439052#2
+
+
+2019-10-25 20:27:34,054 INFO receive config info: unknown#192.168.15.25:9949#1572006454054#2
+
+
+2019-10-25 20:27:49,056 INFO receive config info: unknown#192.168.15.25:9949#1572006469056#2
+
+
+2019-10-25 20:28:04,058 INFO receive config info: unknown#192.168.15.25:9949#1572006484058#2
+
+
+2019-10-25 20:28:19,060 INFO receive config info: unknown#192.168.15.25:9949#1572006499060#2
+
+
+2019-10-25 20:28:34,062 INFO receive config info: unknown#192.168.15.25:9949#1572006514062#2
+
+
+2019-10-25 20:28:49,064 INFO receive config info: unknown#192.168.15.25:9949#1572006529064#2
+
+
+2019-10-25 20:29:04,065 INFO receive config info: unknown#192.168.15.25:9949#1572006544065#2
+
+
+2019-10-25 20:29:19,067 INFO receive config info: unknown#192.168.15.25:9949#1572006559067#2
+
+
+2019-10-25 20:29:34,069 INFO receive config info: unknown#192.168.15.25:9949#1572006574069#2
+
+
+2019-10-25 20:29:49,071 INFO receive config info: unknown#192.168.15.25:9949#1572006589071#2
+
+
+2019-10-25 20:30:04,073 INFO receive config info: unknown#192.168.15.25:9949#1572006604073#2
+
+
+2019-10-25 20:30:19,075 INFO receive config info: unknown#192.168.15.25:9949#1572006619075#2
+
+
+2019-10-25 20:30:34,077 INFO receive config info: unknown#192.168.15.25:9949#1572006634077#2
+
+
+2019-10-25 20:30:49,079 INFO receive config info: unknown#192.168.15.25:9949#1572006649079#2
+
+
+2019-10-25 20:31:04,080 INFO receive config info: unknown#192.168.15.25:9949#1572006664080#2
+
+
+2019-10-25 20:31:19,082 INFO receive config info: unknown#192.168.15.25:9949#1572006679082#2
+
+
+2019-10-25 20:31:34,081 INFO receive config info: unknown#192.168.15.25:9949#1572006694081#2
+
+
+2019-10-25 20:31:49,083 INFO receive config info: unknown#192.168.15.25:9949#1572006709083#2
+
+
+2019-10-25 20:32:04,084 INFO receive config info: unknown#192.168.15.25:9949#1572006724084#2
+
+
+2019-10-25 20:32:19,086 INFO receive config info: unknown#192.168.15.25:9949#1572006739086#2
+
+
+2019-10-25 20:32:34,088 INFO receive config info: unknown#192.168.15.25:9949#1572006754088#2
+
+
+2019-10-25 20:32:49,090 INFO receive config info: unknown#192.168.15.25:9949#1572006769090#2
+
+
+2019-10-25 20:33:04,092 INFO receive config info: unknown#192.168.15.25:9949#1572006784092#2
+
+
+2019-10-25 20:33:19,094 INFO receive config info: unknown#192.168.15.25:9949#1572006799094#2
+
+
+2019-10-25 20:33:34,096 INFO receive config info: unknown#192.168.15.25:9949#1572006814096#2
+
+
+2019-10-25 20:33:49,098 INFO receive config info: unknown#192.168.15.25:9949#1572006829098#2
+
+
+2019-10-25 20:34:04,100 INFO receive config info: unknown#192.168.15.25:9949#1572006844100#2
+
+
+2019-10-25 20:34:19,102 INFO receive config info: unknown#192.168.15.25:9949#1572006859102#2
+
+
+2019-10-25 20:34:34,104 INFO receive config info: unknown#192.168.15.25:9949#1572006874104#2
+
+
+2019-10-25 20:34:49,106 INFO receive config info: unknown#192.168.15.25:9949#1572006889106#2
+
+
+2019-10-25 20:35:04,109 INFO receive config info: unknown#192.168.15.25:9949#1572006904109#2
+
+
+2019-10-25 20:35:19,109 INFO receive config info: unknown#192.168.15.25:9949#1572006919109#2
+
+
+2019-10-25 20:35:34,110 INFO receive config info: unknown#192.168.15.25:9949#1572006934110#2
+
+
+2019-10-25 20:35:49,112 INFO receive config info: unknown#192.168.15.25:9949#1572006949112#2
+
+
+2019-10-25 20:36:04,114 INFO receive config info: unknown#192.168.15.25:9949#1572006964114#2
+
+
+2019-10-25 20:36:19,115 INFO receive config info: unknown#192.168.15.25:9949#1572006979115#2
+
+
+2019-10-25 20:36:34,117 INFO receive config info: unknown#192.168.15.25:9949#1572006994117#2
+
+
+2019-10-25 20:36:49,119 INFO receive config info: unknown#192.168.15.25:9949#1572007009119#2
+
+
+2019-10-25 20:37:04,122 INFO receive config info: unknown#192.168.15.25:9949#1572007024121#2
+
+
+2019-10-25 20:37:19,124 INFO receive config info: unknown#192.168.15.25:9949#1572007039124#2
+
+
+2019-10-25 20:37:34,126 INFO receive config info: unknown#192.168.15.25:9949#1572007054126#2
+
+
+2019-10-25 20:37:49,128 INFO receive config info: unknown#192.168.15.25:9949#1572007069128#2
+
+
+2019-10-25 20:38:04,130 INFO receive config info: unknown#192.168.15.25:9949#1572007084130#2
+
+
+2019-10-25 20:38:19,132 INFO receive config info: unknown#192.168.15.25:9949#1572007099132#2
+
+
+2019-10-25 20:38:34,133 INFO receive config info: unknown#192.168.15.25:9949#1572007114133#2
+
+
+2019-10-25 20:38:49,135 INFO receive config info: unknown#192.168.15.25:9949#1572007129135#2
+
+
+2019-10-25 20:39:04,138 INFO receive config info: unknown#192.168.15.25:9949#1572007144138#2
+
+
+2019-10-25 20:39:19,140 INFO receive config info: unknown#192.168.15.25:9949#1572007159140#2
+
+
+2019-10-25 20:39:34,143 INFO receive config info: unknown#192.168.15.25:9949#1572007174143#2
+
+
+2019-10-25 20:39:49,145 INFO receive config info: unknown#192.168.15.25:9949#1572007189145#2
+
+
+2019-10-25 20:40:04,147 INFO receive config info: unknown#192.168.15.25:9949#1572007204147#2
+
+
+2019-10-25 20:40:19,191 INFO receive config info: unknown#192.168.15.25:9949#1572007219191#2
+
+
+2019-10-25 20:40:34,247 INFO receive config info: unknown#192.168.15.25:9949#1572007234247#2
+
+
+2019-10-25 20:40:49,249 INFO receive config info: unknown#192.168.15.25:9949#1572007249249#2
+
+
+2019-10-25 20:41:04,251 INFO receive config info: unknown#192.168.15.25:9949#1572007264251#2
+
+
+2019-10-25 20:41:19,253 INFO receive config info: unknown#192.168.15.25:9949#1572007279253#2
+
+
+2019-10-25 20:41:34,255 INFO receive config info: unknown#192.168.15.25:9949#1572007294255#2
+
+
+2019-10-25 20:41:49,257 INFO receive config info: unknown#192.168.15.25:9949#1572007309257#2
+
+
+2019-10-25 20:42:04,260 INFO receive config info: unknown#192.168.15.25:9949#1572007324260#2
+
+
+2019-10-25 20:42:19,262 INFO receive config info: unknown#192.168.15.25:9949#1572007339262#2
+
+
+2019-10-25 20:42:34,264 INFO receive config info: unknown#192.168.15.25:9949#1572007354264#2
+
+
+2019-10-25 20:42:49,266 INFO receive config info: unknown#192.168.15.25:9949#1572007369266#2
+
+
+2019-10-25 20:43:04,268 INFO receive config info: unknown#192.168.15.25:9949#1572007384268#2
+
+
+2019-10-25 20:43:19,270 INFO receive config info: unknown#192.168.15.25:9949#1572007399270#2
+
+

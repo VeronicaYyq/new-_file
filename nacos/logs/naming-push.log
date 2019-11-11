@@ -1,0 +1,718 @@
+2019-10-20 08:33:27,368 INFO DEFAULT_GROUP@@gateway-api is changed, add it to push queue.
+
+2019-10-20 08:33:31,003 INFO DEFAULT_GROUP@@cart-service is changed, add it to push queue.
+
+2019-10-20 08:35:36,393 INFO DEFAULT_GROUP@@auth-service is changed, add it to push queue.
+
+2019-10-20 08:36:18,902 INFO DEFAULT_GROUP@@pms-service is changed, add it to push queue.
+
+2019-10-20 08:36:48,440 INFO DEFAULT_GROUP@@sms-service is changed, add it to push queue.
+
+2019-10-20 08:37:13,260 INFO DEFAULT_GROUP@@ums-service is changed, add it to push queue.
+
+2019-10-20 08:40:16,913 INFO DEFAULT_GROUP@@cart-service is changed, add it to push queue.
+
+2019-10-20 08:40:16,914 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:64572, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,64572,2504638404484
+
+2019-10-20 08:40:16,914 INFO send udp packet: 192.168.15.23,64572,2504638404484
+
+2019-10-20 08:40:16,997 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:52638, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,52638,2504638404484
+
+2019-10-20 08:40:16,997 INFO send udp packet: 192.168.15.23,52638,2504638404484
+
+2019-10-20 08:40:16,998 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:57198, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,57198,2504638404484
+
+2019-10-20 08:40:16,998 INFO send udp packet: 192.168.15.23,57198,2504638404484
+
+2019-10-20 08:40:17,000 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:62765, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,62765,2504638404484
+
+2019-10-20 08:40:17,000 INFO send udp packet: 192.168.15.23,62765,2504638404484
+
+2019-10-20 08:40:17,004 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:52531, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,52531,2504638404484
+
+2019-10-20 08:40:17,004 INFO send udp packet: 192.168.15.23,52531,2504638404484
+
+2019-10-20 08:40:17,004 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:57215, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,57215,2504638404484
+
+2019-10-20 08:40:17,004 INFO send udp packet: 192.168.15.23,57215,2504638404484
+
+2019-10-20 08:40:17,014 INFO received ack: {"type": "push-ack", "lastRefTime":"2504638404484", "data":""} from: 192.168.15.23:, cost: 64572 ms, unacked: 100, total push: 5
+
+2019-10-20 08:40:17,016 INFO received ack: {"type": "push-ack", "lastRefTime":"2504638404484", "data":""} from: 192.168.15.23:, cost: 52638 ms, unacked: 19, total push: 4
+
+2019-10-20 08:40:17,017 INFO received ack: {"type": "push-ack", "lastRefTime":"2504638404484", "data":""} from: 192.168.15.23:, cost: 57198 ms, unacked: 19, total push: 3
+
+2019-10-20 08:40:17,017 INFO received ack: {"type": "push-ack", "lastRefTime":"2504638404484", "data":""} from: 192.168.15.23:, cost: 62765 ms, unacked: 17, total push: 2
+
+2019-10-20 08:40:17,017 INFO received ack: {"type": "push-ack", "lastRefTime":"2504638404484", "data":""} from: 192.168.15.23:, cost: 57215 ms, unacked: 13, total push: 1
+
+2019-10-20 08:40:17,017 INFO received ack: {"type": "push-ack", "lastRefTime":"2504638404484", "data":""} from: 192.168.15.23:, cost: 52531 ms, unacked: 13, total push: 0
+
+2019-10-20 08:40:27,793 INFO DEFAULT_GROUP@@cart-service is changed, add it to push queue.
+
+2019-10-20 08:40:27,793 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:64572, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,64572,2515517305226
+
+2019-10-20 08:40:27,793 INFO send udp packet: 192.168.15.23,64572,2515517305226
+
+2019-10-20 08:40:27,793 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:52638, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,52638,2515517305226
+
+2019-10-20 08:40:27,793 INFO send udp packet: 192.168.15.23,52638,2515517305226
+
+2019-10-20 08:40:27,793 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:57198, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,57198,2515517305226
+
+2019-10-20 08:40:27,793 INFO send udp packet: 192.168.15.23,57198,2515517305226
+
+2019-10-20 08:40:27,794 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:62765, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,62765,2515517305226
+
+2019-10-20 08:40:27,794 INFO send udp packet: 192.168.15.23,62765,2515517305226
+
+2019-10-20 08:40:27,794 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:52531, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,52531,2515517305226
+
+2019-10-20 08:40:27,794 INFO send udp packet: 192.168.15.23,52531,2515517305226
+
+2019-10-20 08:40:27,795 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:57215, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,57215,2515517305226
+
+2019-10-20 08:40:27,796 INFO send udp packet: 192.168.15.23,57215,2515517305226
+
+2019-10-20 08:40:27,797 INFO received ack: {"type": "push-ack", "lastRefTime":"2515517305226", "data":""} from: 192.168.15.23:, cost: 64572 ms, unacked: 4, total push: 5
+
+2019-10-20 08:40:27,797 INFO received ack: {"type": "push-ack", "lastRefTime":"2515517305226", "data":""} from: 192.168.15.23:, cost: 52638 ms, unacked: 4, total push: 4
+
+2019-10-20 08:40:27,797 INFO received ack: {"type": "push-ack", "lastRefTime":"2515517305226", "data":""} from: 192.168.15.23:, cost: 52531 ms, unacked: 3, total push: 3
+
+2019-10-20 08:40:27,797 INFO received ack: {"type": "push-ack", "lastRefTime":"2515517305226", "data":""} from: 192.168.15.23:, cost: 57198 ms, unacked: 4, total push: 2
+
+2019-10-20 08:40:27,797 INFO received ack: {"type": "push-ack", "lastRefTime":"2515517305226", "data":""} from: 192.168.15.23:, cost: 62765 ms, unacked: 3, total push: 1
+
+2019-10-20 08:40:27,799 INFO received ack: {"type": "push-ack", "lastRefTime":"2515517305226", "data":""} from: 192.168.15.23:, cost: 57215 ms, unacked: 3, total push: 0
+
+2019-10-20 08:40:32,791 INFO DEFAULT_GROUP@@cart-service is changed, add it to push queue.
+
+2019-10-20 08:40:32,791 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:64572, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,64572,2520514995445
+
+2019-10-20 08:40:32,791 INFO send udp packet: 192.168.15.23,64572,2520514995445
+
+2019-10-20 08:40:32,792 INFO received ack: {"type": "push-ack", "lastRefTime":"2520514995445", "data":""} from: 192.168.15.23:, cost: 64572 ms, unacked: 1, total push: 0
+
+2019-10-20 08:40:32,792 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:52638, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,52638,2520514995445
+
+2019-10-20 08:40:32,792 INFO send udp packet: 192.168.15.23,52638,2520514995445
+
+2019-10-20 08:40:32,793 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:57198, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,57198,2520514995445
+
+2019-10-20 08:40:32,793 INFO send udp packet: 192.168.15.23,57198,2520514995445
+
+2019-10-20 08:40:32,794 INFO received ack: {"type": "push-ack", "lastRefTime":"2520514995445", "data":""} from: 192.168.15.23:, cost: 52638 ms, unacked: 2, total push: 1
+
+2019-10-20 08:40:32,794 INFO received ack: {"type": "push-ack", "lastRefTime":"2520514995445", "data":""} from: 192.168.15.23:, cost: 57198 ms, unacked: 1, total push: 0
+
+2019-10-20 08:40:32,794 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:62765, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,62765,2520514995445
+
+2019-10-20 08:40:32,794 INFO send udp packet: 192.168.15.23,62765,2520514995445
+
+2019-10-20 08:40:32,794 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:52531, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,52531,2520514995445
+
+2019-10-20 08:40:32,794 INFO send udp packet: 192.168.15.23,52531,2520514995445
+
+2019-10-20 08:40:32,795 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:57215, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,57215,2520514995445
+
+2019-10-20 08:40:32,795 INFO send udp packet: 192.168.15.23,57215,2520514995445
+
+2019-10-20 08:40:32,797 INFO received ack: {"type": "push-ack", "lastRefTime":"2520514995445", "data":""} from: 192.168.15.23:, cost: 57215 ms, unacked: 2, total push: 2
+
+2019-10-20 08:40:32,797 INFO received ack: {"type": "push-ack", "lastRefTime":"2520514995445", "data":""} from: 192.168.15.23:, cost: 52531 ms, unacked: 3, total push: 1
+
+2019-10-20 08:40:32,797 INFO received ack: {"type": "push-ack", "lastRefTime":"2520514995445", "data":""} from: 192.168.15.23:, cost: 62765 ms, unacked: 3, total push: 0
+
+2019-10-20 09:44:47,830 INFO DEFAULT_GROUP@@cart-service is changed, add it to push queue.
+
+2019-10-20 09:44:47,831 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:64572, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,64572,6375234832301
+
+2019-10-20 09:44:47,831 INFO send udp packet: 192.168.15.23,64572,6375234832301
+
+2019-10-20 09:44:47,831 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:52638, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,52638,6375234832301
+
+2019-10-20 09:44:47,831 INFO send udp packet: 192.168.15.23,52638,6375234832301
+
+2019-10-20 09:44:47,831 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:57198, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,57198,6375234832301
+
+2019-10-20 09:44:47,831 INFO send udp packet: 192.168.15.23,57198,6375234832301
+
+2019-10-20 09:44:47,832 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:62765, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,62765,6375234832301
+
+2019-10-20 09:44:47,832 INFO send udp packet: 192.168.15.23,62765,6375234832301
+
+2019-10-20 09:44:47,832 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:57215, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,57215,6375234832301
+
+2019-10-20 09:44:47,832 INFO send udp packet: 192.168.15.23,57215,6375234832301
+
+2019-10-20 09:44:47,836 INFO received ack: {"type": "push-ack", "lastRefTime":"6375234832301", "data":""} from: 192.168.15.23:, cost: 64572 ms, unacked: 5, total push: 4
+
+2019-10-20 09:44:47,837 INFO received ack: {"type": "push-ack", "lastRefTime":"6375234832301", "data":""} from: 192.168.15.23:, cost: 57198 ms, unacked: 6, total push: 3
+
+2019-10-20 09:44:47,837 INFO received ack: {"type": "push-ack", "lastRefTime":"6375234832301", "data":""} from: 192.168.15.23:, cost: 57215 ms, unacked: 5, total push: 2
+
+2019-10-20 09:44:47,837 INFO received ack: {"type": "push-ack", "lastRefTime":"6375234832301", "data":""} from: 192.168.15.23:, cost: 52638 ms, unacked: 6, total push: 1
+
+2019-10-20 09:44:47,837 INFO received ack: {"type": "push-ack", "lastRefTime":"6375234832301", "data":""} from: 192.168.15.23:, cost: 62765 ms, unacked: 5, total push: 0
+
+2019-10-20 09:44:59,793 INFO DEFAULT_GROUP@@cart-service is changed, add it to push queue.
+
+2019-10-20 09:44:59,793 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:64572, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,64572,6387196305374
+
+2019-10-20 09:44:59,793 INFO send udp packet: 192.168.15.23,64572,6387196305374
+
+2019-10-20 09:44:59,793 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:52638, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,52638,6387196305374
+
+2019-10-20 09:44:59,793 INFO send udp packet: 192.168.15.23,52638,6387196305374
+
+2019-10-20 09:44:59,794 INFO received ack: {"type": "push-ack", "lastRefTime":"6387196305374", "data":""} from: 192.168.15.23:, cost: 64572 ms, unacked: 1, total push: 1
+
+2019-10-20 09:44:59,794 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:55837, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,55837,6387196305374
+
+2019-10-20 09:44:59,794 INFO send udp packet: 192.168.15.23,55837,6387196305374
+
+2019-10-20 09:44:59,794 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:57198, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,57198,6387196305374
+
+2019-10-20 09:44:59,794 INFO send udp packet: 192.168.15.23,57198,6387196305374
+
+2019-10-20 09:44:59,794 INFO received ack: {"type": "push-ack", "lastRefTime":"6387196305374", "data":""} from: 192.168.15.23:, cost: 52638 ms, unacked: 1, total push: 2
+
+2019-10-20 09:44:59,795 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:62765, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,62765,6387196305374
+
+2019-10-20 09:44:59,795 INFO send udp packet: 192.168.15.23,62765,6387196305374
+
+2019-10-20 09:44:59,795 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:57215, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,57215,6387196305374
+
+2019-10-20 09:44:59,795 INFO send udp packet: 192.168.15.23,57215,6387196305374
+
+2019-10-20 09:44:59,796 INFO received ack: {"type": "push-ack", "lastRefTime":"6387196305374", "data":""} from: 192.168.15.23:, cost: 62765 ms, unacked: 1, total push: 3
+
+2019-10-20 09:44:59,798 INFO received ack: {"type": "push-ack", "lastRefTime":"6387196305374", "data":""} from: 192.168.15.23:, cost: 57198 ms, unacked: 4, total push: 2
+
+2019-10-20 09:44:59,798 INFO received ack: {"type": "push-ack", "lastRefTime":"6387196305374", "data":""} from: 192.168.15.23:, cost: 57215 ms, unacked: 3, total push: 1
+
+2019-10-20 09:44:59,802 INFO received ack: {"type": "push-ack", "lastRefTime":"6387196305374", "data":""} from: 192.168.15.23:, cost: 55837 ms, unacked: 8, total push: 0
+
+2019-10-20 09:45:01,307 INFO DEFAULT_GROUP@@cart-service is changed, add it to push queue.
+
+2019-10-20 09:45:01,307 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:64572, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,64572,6388710284157
+
+2019-10-20 09:45:01,307 INFO send udp packet: 192.168.15.23,64572,6388710284157
+
+2019-10-20 09:45:01,307 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:52638, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,52638,6388710284157
+
+2019-10-20 09:45:01,307 INFO send udp packet: 192.168.15.23,52638,6388710284157
+
+2019-10-20 09:45:01,307 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:55837, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,55837,6388710284157
+
+2019-10-20 09:45:01,308 INFO send udp packet: 192.168.15.23,55837,6388710284157
+
+2019-10-20 09:45:01,308 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:57198, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,57198,6388710284157
+
+2019-10-20 09:45:01,308 INFO send udp packet: 192.168.15.23,57198,6388710284157
+
+2019-10-20 09:45:01,308 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:62765, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,62765,6388710284157
+
+2019-10-20 09:45:01,308 INFO send udp packet: 192.168.15.23,62765,6388710284157
+
+2019-10-20 09:45:01,308 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:57215, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,57215,6388710284157
+
+2019-10-20 09:45:01,309 INFO send udp packet: 192.168.15.23,57215,6388710284157
+
+2019-10-20 09:45:01,312 INFO received ack: {"type": "push-ack", "lastRefTime":"6388710284157", "data":""} from: 192.168.15.23:, cost: 52638 ms, unacked: 5, total push: 5
+
+2019-10-20 09:45:01,312 INFO received ack: {"type": "push-ack", "lastRefTime":"6388710284157", "data":""} from: 192.168.15.23:, cost: 64572 ms, unacked: 5, total push: 4
+
+2019-10-20 09:45:01,312 INFO received ack: {"type": "push-ack", "lastRefTime":"6388710284157", "data":""} from: 192.168.15.23:, cost: 57198 ms, unacked: 4, total push: 3
+
+2019-10-20 09:45:01,312 INFO received ack: {"type": "push-ack", "lastRefTime":"6388710284157", "data":""} from: 192.168.15.23:, cost: 62765 ms, unacked: 4, total push: 2
+
+2019-10-20 09:45:01,312 INFO received ack: {"type": "push-ack", "lastRefTime":"6388710284157", "data":""} from: 192.168.15.23:, cost: 57215 ms, unacked: 3, total push: 1
+
+2019-10-20 09:45:01,373 INFO received ack: {"type": "push-ack", "lastRefTime":"6388710284157", "data":""} from: 192.168.15.23:, cost: 55837 ms, unacked: 65, total push: 0
+
+2019-10-20 13:58:56,536 INFO DEFAULT_GROUP@@cart-service is changed, add it to push queue.
+
+2019-10-20 13:58:56,536 INFO DEFAULT_GROUP@@auth-service is changed, add it to push queue.
+
+2019-10-20 13:59:01,902 INFO DEFAULT_GROUP@@gateway-api is changed, add it to push queue.
+
+2019-10-20 13:59:01,903 INFO serviceName: DEFAULT_GROUP@@gateway-api changed, schedule push for: 192.168.15.23:55837, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,55837,21629420854584
+
+2019-10-20 13:59:01,903 INFO send udp packet: 192.168.15.23,55837,21629420854584
+
+2019-10-20 13:59:01,903 INFO serviceName: DEFAULT_GROUP@@gateway-api changed, schedule push for: 192.168.15.23:57198, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,57198,21629420854584
+
+2019-10-20 13:59:01,903 INFO send udp packet: 192.168.15.23,57198,21629420854584
+
+2019-10-20 13:59:01,903 INFO serviceName: DEFAULT_GROUP@@gateway-api changed, schedule push for: 192.168.15.23:64572, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,64572,21629420854584
+
+2019-10-20 13:59:01,903 INFO send udp packet: 192.168.15.23,64572,21629420854584
+
+2019-10-20 13:59:01,904 INFO serviceName: DEFAULT_GROUP@@gateway-api changed, schedule push for: 192.168.15.23:62765, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,62765,21629420854584
+
+2019-10-20 13:59:01,904 INFO send udp packet: 192.168.15.23,62765,21629420854584
+
+2019-10-20 13:59:01,904 INFO serviceName: DEFAULT_GROUP@@gateway-api changed, schedule push for: 192.168.15.23:52638, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,52638,21629420854584
+
+2019-10-20 13:59:01,904 INFO send udp packet: 192.168.15.23,52638,21629420854584
+
+2019-10-20 13:59:01,905 INFO serviceName: DEFAULT_GROUP@@gateway-api changed, schedule push for: 192.168.15.23:57215, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,57215,21629420854584
+
+2019-10-20 13:59:01,905 INFO send udp packet: 192.168.15.23,57215,21629420854584
+
+2019-10-20 13:59:01,905 INFO DEFAULT_GROUP@@sms-service is changed, add it to push queue.
+
+2019-10-20 13:59:01,905 INFO serviceName: DEFAULT_GROUP@@sms-service changed, schedule push for: 192.168.15.23:55837, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,55837,21629423759943
+
+2019-10-20 13:59:01,905 INFO send udp packet: 192.168.15.23,55837,21629423759943
+
+2019-10-20 13:59:01,905 INFO serviceName: DEFAULT_GROUP@@sms-service changed, schedule push for: 192.168.15.23:64572, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,64572,21629423759943
+
+2019-10-20 13:59:01,905 INFO send udp packet: 192.168.15.23,64572,21629423759943
+
+2019-10-20 13:59:01,905 INFO serviceName: DEFAULT_GROUP@@sms-service changed, schedule push for: 192.168.15.23:52638, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,52638,21629423759943
+
+2019-10-20 13:59:01,905 INFO send udp packet: 192.168.15.23,52638,21629423759943
+
+2019-10-20 13:59:01,905 INFO serviceName: DEFAULT_GROUP@@sms-service changed, schedule push for: 192.168.15.23:57215, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,57215,21629423759943
+
+2019-10-20 13:59:01,905 INFO send udp packet: 192.168.15.23,57215,21629423759943
+
+2019-10-20 13:59:01,906 INFO serviceName: DEFAULT_GROUP@@sms-service changed, schedule push for: 192.168.15.23:62765, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,62765,21629423759943
+
+2019-10-20 13:59:01,906 INFO send udp packet: 192.168.15.23,62765,21629423759943
+
+2019-10-20 13:59:01,906 INFO serviceName: DEFAULT_GROUP@@sms-service changed, schedule push for: 192.168.15.23:57198, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,57198,21629423759943
+
+2019-10-20 13:59:01,906 INFO send udp packet: 192.168.15.23,57198,21629423759943
+
+2019-10-20 13:59:01,906 INFO DEFAULT_GROUP@@ums-service is changed, add it to push queue.
+
+2019-10-20 13:59:01,906 INFO serviceName: DEFAULT_GROUP@@ums-service changed, schedule push for: 192.168.15.23:64572, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,64572,21629424770632
+
+2019-10-20 13:59:01,906 INFO send udp packet: 192.168.15.23,64572,21629424770632
+
+2019-10-20 13:59:01,906 INFO serviceName: DEFAULT_GROUP@@ums-service changed, schedule push for: 192.168.15.23:55837, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,55837,21629424770632
+
+2019-10-20 13:59:01,906 INFO send udp packet: 192.168.15.23,55837,21629424770632
+
+2019-10-20 13:59:01,906 INFO serviceName: DEFAULT_GROUP@@ums-service changed, schedule push for: 192.168.15.23:57198, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,57198,21629424770632
+
+2019-10-20 13:59:01,906 INFO send udp packet: 192.168.15.23,57198,21629424770632
+
+2019-10-20 13:59:01,906 INFO serviceName: DEFAULT_GROUP@@ums-service changed, schedule push for: 192.168.15.23:57215, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,57215,21629424770632
+
+2019-10-20 13:59:01,906 INFO send udp packet: 192.168.15.23,57215,21629424770632
+
+2019-10-20 13:59:01,907 INFO serviceName: DEFAULT_GROUP@@ums-service changed, schedule push for: 192.168.15.23:52638, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,52638,21629424770632
+
+2019-10-20 13:59:01,907 INFO send udp packet: 192.168.15.23,52638,21629424770632
+
+2019-10-20 13:59:01,907 INFO serviceName: DEFAULT_GROUP@@ums-service changed, schedule push for: 192.168.15.23:62765, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,62765,21629424770632
+
+2019-10-20 13:59:01,907 INFO send udp packet: 192.168.15.23,62765,21629424770632
+
+2019-10-20 13:59:01,914 INFO received ack: {"type": "push-ack", "lastRefTime":"21629420854584", "data":""} from: 192.168.15.23:, cost: 64572 ms, unacked: 11, total push: 17
+
+2019-10-20 13:59:01,939 INFO received ack: {"type": "push-ack", "lastRefTime":"21629423759943", "data":""} from: 192.168.15.23:, cost: 64572 ms, unacked: 34, total push: 16
+
+2019-10-20 13:59:01,939 INFO received ack: {"type": "push-ack", "lastRefTime":"21629424770632", "data":""} from: 192.168.15.23:, cost: 64572 ms, unacked: 33, total push: 15
+
+2019-10-20 13:59:01,944 INFO received ack: {"type": "push-ack", "lastRefTime":"21629420854584", "data":""} from: 192.168.15.23:, cost: 62765 ms, unacked: 40, total push: 14
+
+2019-10-20 13:59:01,944 INFO received ack: {"type": "push-ack", "lastRefTime":"21629423759943", "data":""} from: 192.168.15.23:, cost: 62765 ms, unacked: 38, total push: 13
+
+2019-10-20 13:59:01,944 INFO received ack: {"type": "push-ack", "lastRefTime":"21629424770632", "data":""} from: 192.168.15.23:, cost: 62765 ms, unacked: 37, total push: 12
+
+2019-10-20 13:59:01,944 INFO received ack: {"type": "push-ack", "lastRefTime":"21629420854584", "data":""} from: 192.168.15.23:, cost: 57215 ms, unacked: 39, total push: 11
+
+2019-10-20 13:59:01,945 INFO received ack: {"type": "push-ack", "lastRefTime":"21629423759943", "data":""} from: 192.168.15.23:, cost: 57215 ms, unacked: 40, total push: 10
+
+2019-10-20 13:59:01,948 INFO received ack: {"type": "push-ack", "lastRefTime":"21629424770632", "data":""} from: 192.168.15.23:, cost: 57215 ms, unacked: 42, total push: 9
+
+2019-10-20 13:59:01,948 INFO received ack: {"type": "push-ack", "lastRefTime":"21629420854584", "data":""} from: 192.168.15.23:, cost: 57198 ms, unacked: 45, total push: 8
+
+2019-10-20 13:59:01,951 INFO received ack: {"type": "push-ack", "lastRefTime":"21629423759943", "data":""} from: 192.168.15.23:, cost: 57198 ms, unacked: 45, total push: 7
+
+2019-10-20 13:59:01,953 INFO received ack: {"type": "push-ack", "lastRefTime":"21629424770632", "data":""} from: 192.168.15.23:, cost: 57198 ms, unacked: 47, total push: 6
+
+2019-10-20 13:59:01,955 INFO received ack: {"type": "push-ack", "lastRefTime":"21629420854584", "data":""} from: 192.168.15.23:, cost: 55837 ms, unacked: 52, total push: 5
+
+2019-10-20 13:59:01,956 INFO received ack: {"type": "push-ack", "lastRefTime":"21629423759943", "data":""} from: 192.168.15.23:, cost: 55837 ms, unacked: 51, total push: 4
+
+2019-10-20 13:59:01,957 INFO received ack: {"type": "push-ack", "lastRefTime":"21629420854584", "data":""} from: 192.168.15.23:, cost: 52638 ms, unacked: 53, total push: 3
+
+2019-10-20 13:59:01,958 INFO DEFAULT_GROUP@@pms-service is changed, add it to push queue.
+
+2019-10-20 13:59:01,958 INFO received ack: {"type": "push-ack", "lastRefTime":"21629424770632", "data":""} from: 192.168.15.23:, cost: 55837 ms, unacked: 52, total push: 2
+
+2019-10-20 13:59:01,958 INFO serviceName: DEFAULT_GROUP@@pms-service changed, schedule push for: 192.168.15.23:64572, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,64572,21629477004793
+
+2019-10-20 13:59:01,958 INFO send udp packet: 192.168.15.23,64572,21629477004793
+
+2019-10-20 13:59:01,958 INFO serviceName: DEFAULT_GROUP@@pms-service changed, schedule push for: 192.168.15.23:62765, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,62765,21629477004793
+
+2019-10-20 13:59:01,958 INFO send udp packet: 192.168.15.23,62765,21629477004793
+
+2019-10-20 13:59:01,959 INFO serviceName: DEFAULT_GROUP@@pms-service changed, schedule push for: 192.168.15.23:55837, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,55837,21629477004793
+
+2019-10-20 13:59:01,959 INFO send udp packet: 192.168.15.23,55837,21629477004793
+
+2019-10-20 13:59:01,959 INFO serviceName: DEFAULT_GROUP@@pms-service changed, schedule push for: 192.168.15.23:57198, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,57198,21629477004793
+
+2019-10-20 13:59:01,959 INFO send udp packet: 192.168.15.23,57198,21629477004793
+
+2019-10-20 13:59:01,959 INFO serviceName: DEFAULT_GROUP@@pms-service changed, schedule push for: 192.168.15.23:57215, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,57215,21629477004793
+
+2019-10-20 13:59:01,959 INFO send udp packet: 192.168.15.23,57215,21629477004793
+
+2019-10-20 13:59:01,959 INFO serviceName: DEFAULT_GROUP@@pms-service changed, schedule push for: 192.168.15.23:52638, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,52638,21629477004793
+
+2019-10-20 13:59:01,959 INFO send udp packet: 192.168.15.23,52638,21629477004793
+
+2019-10-20 13:59:01,959 INFO DEFAULT_GROUP@@auth-service is changed, add it to push queue.
+
+2019-10-20 13:59:01,959 INFO serviceName: DEFAULT_GROUP@@auth-service changed, schedule push for: 192.168.15.23:62765, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,62765,21629478066678
+
+2019-10-20 13:59:01,959 INFO send udp packet: 192.168.15.23,62765,21629478066678
+
+2019-10-20 13:59:01,959 INFO serviceName: DEFAULT_GROUP@@auth-service changed, schedule push for: 192.168.15.23:64572, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,64572,21629478066678
+
+2019-10-20 13:59:01,959 INFO send udp packet: 192.168.15.23,64572,21629478066678
+
+2019-10-20 13:59:01,959 INFO serviceName: DEFAULT_GROUP@@auth-service changed, schedule push for: 192.168.15.23:55837, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,55837,21629478066678
+
+2019-10-20 13:59:01,959 INFO send udp packet: 192.168.15.23,55837,21629478066678
+
+2019-10-20 13:59:01,960 INFO serviceName: DEFAULT_GROUP@@auth-service changed, schedule push for: 192.168.15.23:57198, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,57198,21629478066678
+
+2019-10-20 13:59:01,960 INFO send udp packet: 192.168.15.23,57198,21629478066678
+
+2019-10-20 13:59:01,960 INFO serviceName: DEFAULT_GROUP@@auth-service changed, schedule push for: 192.168.15.23:57215, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,57215,21629478066678
+
+2019-10-20 13:59:01,960 INFO send udp packet: 192.168.15.23,57215,21629478066678
+
+2019-10-20 13:59:01,960 INFO serviceName: DEFAULT_GROUP@@auth-service changed, schedule push for: 192.168.15.23:52638, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,52638,21629478066678
+
+2019-10-20 13:59:01,960 INFO send udp packet: 192.168.15.23,52638,21629478066678
+
+2019-10-20 13:59:01,960 INFO DEFAULT_GROUP@@cart-service is changed, add it to push queue.
+
+2019-10-20 13:59:01,960 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:64572, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,64572,21629478899888
+
+2019-10-20 13:59:01,960 INFO send udp packet: 192.168.15.23,64572,21629478899888
+
+2019-10-20 13:59:01,960 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:52638, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,52638,21629478899888
+
+2019-10-20 13:59:01,960 INFO send udp packet: 192.168.15.23,52638,21629478899888
+
+2019-10-20 13:59:01,960 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:55837, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,55837,21629478899888
+
+2019-10-20 13:59:01,960 INFO send udp packet: 192.168.15.23,55837,21629478899888
+
+2019-10-20 13:59:01,960 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:57198, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,57198,21629478899888
+
+2019-10-20 13:59:01,960 INFO send udp packet: 192.168.15.23,57198,21629478899888
+
+2019-10-20 13:59:01,961 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:62765, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,62765,21629478899888
+
+2019-10-20 13:59:01,961 INFO send udp packet: 192.168.15.23,62765,21629478899888
+
+2019-10-20 13:59:01,961 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:57215, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,57215,21629478899888
+
+2019-10-20 13:59:01,961 INFO send udp packet: 192.168.15.23,57215,21629478899888
+
+2019-10-20 13:59:01,961 INFO received ack: {"type": "push-ack", "lastRefTime":"21629477004793", "data":""} from: 192.168.15.23:, cost: 62765 ms, unacked: 3, total push: 19
+
+2019-10-20 13:59:01,962 INFO received ack: {"type": "push-ack", "lastRefTime":"21629477004793", "data":""} from: 192.168.15.23:, cost: 64572 ms, unacked: 4, total push: 18
+
+2019-10-20 13:59:01,964 INFO received ack: {"type": "push-ack", "lastRefTime":"21629478066678", "data":""} from: 192.168.15.23:, cost: 62765 ms, unacked: 5, total push: 17
+
+2019-10-20 13:59:01,965 INFO received ack: {"type": "push-ack", "lastRefTime":"21629477004793", "data":""} from: 192.168.15.23:, cost: 55837 ms, unacked: 6, total push: 16
+
+2019-10-20 13:59:01,965 INFO received ack: {"type": "push-ack", "lastRefTime":"21629423759943", "data":""} from: 192.168.15.23:, cost: 52638 ms, unacked: 60, total push: 15
+
+2019-10-20 13:59:01,966 INFO received ack: {"type": "push-ack", "lastRefTime":"21629478899888", "data":""} from: 192.168.15.23:, cost: 62765 ms, unacked: 5, total push: 14
+
+2019-10-20 13:59:01,970 INFO received ack: {"type": "push-ack", "lastRefTime":"21629477004793", "data":""} from: 192.168.15.23:, cost: 57215 ms, unacked: 11, total push: 13
+
+2019-10-20 13:59:01,971 INFO received ack: {"type": "push-ack", "lastRefTime":"21629478066678", "data":""} from: 192.168.15.23:, cost: 55837 ms, unacked: 12, total push: 12
+
+2019-10-20 13:59:01,974 INFO received ack: {"type": "push-ack", "lastRefTime":"21629478066678", "data":""} from: 192.168.15.23:, cost: 64572 ms, unacked: 15, total push: 11
+
+2019-10-20 13:59:01,974 INFO received ack: {"type": "push-ack", "lastRefTime":"21629424770632", "data":""} from: 192.168.15.23:, cost: 52638 ms, unacked: 67, total push: 10
+
+2019-10-20 13:59:01,974 INFO received ack: {"type": "push-ack", "lastRefTime":"21629478899888", "data":""} from: 192.168.15.23:, cost: 55837 ms, unacked: 14, total push: 9
+
+2019-10-20 13:59:01,977 INFO received ack: {"type": "push-ack", "lastRefTime":"21629478066678", "data":""} from: 192.168.15.23:, cost: 57215 ms, unacked: 17, total push: 8
+
+2019-10-20 13:59:01,979 INFO received ack: {"type": "push-ack", "lastRefTime":"21629478899888", "data":""} from: 192.168.15.23:, cost: 64572 ms, unacked: 19, total push: 7
+
+2019-10-20 13:59:01,980 INFO received ack: {"type": "push-ack", "lastRefTime":"21629478899888", "data":""} from: 192.168.15.23:, cost: 57215 ms, unacked: 19, total push: 6
+
+2019-10-20 13:59:01,997 INFO received ack: {"type": "push-ack", "lastRefTime":"21629477004793", "data":""} from: 192.168.15.23:, cost: 52638 ms, unacked: 38, total push: 5
+
+2019-10-20 13:59:01,997 INFO received ack: {"type": "push-ack", "lastRefTime":"21629477004793", "data":""} from: 192.168.15.23:, cost: 57198 ms, unacked: 38, total push: 4
+
+2019-10-20 13:59:01,997 INFO received ack: {"type": "push-ack", "lastRefTime":"21629478066678", "data":""} from: 192.168.15.23:, cost: 57198 ms, unacked: 37, total push: 3
+
+2019-10-20 13:59:01,997 INFO received ack: {"type": "push-ack", "lastRefTime":"21629478066678", "data":""} from: 192.168.15.23:, cost: 52638 ms, unacked: 37, total push: 2
+
+2019-10-20 13:59:01,997 INFO received ack: {"type": "push-ack", "lastRefTime":"21629478899888", "data":""} from: 192.168.15.23:, cost: 57198 ms, unacked: 37, total push: 1
+
+2019-10-20 13:59:01,997 INFO received ack: {"type": "push-ack", "lastRefTime":"21629478899888", "data":""} from: 192.168.15.23:, cost: 52638 ms, unacked: 37, total push: 0
+
+2019-10-20 13:59:03,702 INFO DEFAULT_GROUP@@cart-service is changed, add it to push queue.
+
+2019-10-20 13:59:03,702 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:64572, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,64572,21631221073020
+
+2019-10-20 13:59:03,702 INFO send udp packet: 192.168.15.23,64572,21631221073020
+
+2019-10-20 13:59:03,703 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:52638, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,52638,21631221073020
+
+2019-10-20 13:59:03,703 INFO send udp packet: 192.168.15.23,52638,21631221073020
+
+2019-10-20 13:59:03,703 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:55837, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,55837,21631221073020
+
+2019-10-20 13:59:03,703 INFO send udp packet: 192.168.15.23,55837,21631221073020
+
+2019-10-20 13:59:03,703 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:57198, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,57198,21631221073020
+
+2019-10-20 13:59:03,703 INFO send udp packet: 192.168.15.23,57198,21631221073020
+
+2019-10-20 13:59:03,704 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:62765, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,62765,21631221073020
+
+2019-10-20 13:59:03,704 INFO send udp packet: 192.168.15.23,62765,21631221073020
+
+2019-10-20 13:59:03,704 INFO serviceName: DEFAULT_GROUP@@cart-service changed, schedule push for: 192.168.15.23:57215, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,57215,21631221073020
+
+2019-10-20 13:59:03,704 INFO send udp packet: 192.168.15.23,57215,21631221073020
+
+2019-10-20 13:59:03,705 INFO received ack: {"type": "push-ack", "lastRefTime":"21631221073020", "data":""} from: 192.168.15.23:, cost: 64572 ms, unacked: 3, total push: 5
+
+2019-10-20 13:59:03,708 INFO received ack: {"type": "push-ack", "lastRefTime":"21631221073020", "data":""} from: 192.168.15.23:, cost: 62765 ms, unacked: 4, total push: 4
+
+2019-10-20 13:59:03,711 INFO received ack: {"type": "push-ack", "lastRefTime":"21631221073020", "data":""} from: 192.168.15.23:, cost: 55837 ms, unacked: 8, total push: 3
+
+2019-10-20 13:59:03,711 INFO received ack: {"type": "push-ack", "lastRefTime":"21631221073020", "data":""} from: 192.168.15.23:, cost: 57215 ms, unacked: 7, total push: 2
+
+2019-10-20 13:59:03,712 INFO received ack: {"type": "push-ack", "lastRefTime":"21631221073020", "data":""} from: 192.168.15.23:, cost: 57198 ms, unacked: 9, total push: 1
+
+2019-10-20 13:59:03,725 INFO received ack: {"type": "push-ack", "lastRefTime":"21631221073020", "data":""} from: 192.168.15.23:, cost: 52638 ms, unacked: 22, total push: 0
+
+2019-10-20 13:59:03,795 INFO DEFAULT_GROUP@@auth-service is changed, add it to push queue.
+
+2019-10-20 13:59:03,795 INFO serviceName: DEFAULT_GROUP@@auth-service changed, schedule push for: 192.168.15.23:62765, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,62765,21631313472372
+
+2019-10-20 13:59:03,795 INFO send udp packet: 192.168.15.23,62765,21631313472372
+
+2019-10-20 13:59:03,795 INFO serviceName: DEFAULT_GROUP@@auth-service changed, schedule push for: 192.168.15.23:64572, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,64572,21631313472372
+
+2019-10-20 13:59:03,795 INFO send udp packet: 192.168.15.23,64572,21631313472372
+
+2019-10-20 13:59:03,796 INFO serviceName: DEFAULT_GROUP@@auth-service changed, schedule push for: 192.168.15.23:55837, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,55837,21631313472372
+
+2019-10-20 13:59:03,796 INFO send udp packet: 192.168.15.23,55837,21631313472372
+
+2019-10-20 13:59:03,796 INFO serviceName: DEFAULT_GROUP@@auth-service changed, schedule push for: 192.168.15.23:57198, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,57198,21631313472372
+
+2019-10-20 13:59:03,796 INFO send udp packet: 192.168.15.23,57198,21631313472372
+
+2019-10-20 13:59:03,796 INFO serviceName: DEFAULT_GROUP@@auth-service changed, schedule push for: 192.168.15.23:57215, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,57215,21631313472372
+
+2019-10-20 13:59:03,796 INFO send udp packet: 192.168.15.23,57215,21631313472372
+
+2019-10-20 13:59:03,796 INFO serviceName: DEFAULT_GROUP@@auth-service changed, schedule push for: 192.168.15.23:52638, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,52638,21631313472372
+
+2019-10-20 13:59:03,796 INFO send udp packet: 192.168.15.23,52638,21631313472372
+
+2019-10-20 13:59:03,799 INFO received ack: {"type": "push-ack", "lastRefTime":"21631313472372", "data":""} from: 192.168.15.23:, cost: 62765 ms, unacked: 4, total push: 5
+
+2019-10-20 13:59:03,799 INFO received ack: {"type": "push-ack", "lastRefTime":"21631313472372", "data":""} from: 192.168.15.23:, cost: 55837 ms, unacked: 3, total push: 4
+
+2019-10-20 13:59:03,799 INFO received ack: {"type": "push-ack", "lastRefTime":"21631313472372", "data":""} from: 192.168.15.23:, cost: 52638 ms, unacked: 3, total push: 3
+
+2019-10-20 13:59:03,800 INFO received ack: {"type": "push-ack", "lastRefTime":"21631313472372", "data":""} from: 192.168.15.23:, cost: 57198 ms, unacked: 4, total push: 2
+
+2019-10-20 13:59:03,800 INFO received ack: {"type": "push-ack", "lastRefTime":"21631313472372", "data":""} from: 192.168.15.23:, cost: 64572 ms, unacked: 5, total push: 1
+
+2019-10-20 13:59:03,801 INFO received ack: {"type": "push-ack", "lastRefTime":"21631313472372", "data":""} from: 192.168.15.23:, cost: 57215 ms, unacked: 5, total push: 0
+
+2019-10-20 13:59:06,536 INFO DEFAULT_GROUP@@sms-service is changed, add it to push queue.
+
+2019-10-20 13:59:06,539 INFO serviceName: DEFAULT_GROUP@@sms-service changed, schedule push for: 192.168.15.23:55837, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,55837,21634059550885
+
+2019-10-20 13:59:06,539 INFO send udp packet: 192.168.15.23,55837,21634059550885
+
+2019-10-20 13:59:06,540 INFO serviceName: DEFAULT_GROUP@@sms-service changed, schedule push for: 192.168.15.23:64572, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,64572,21634059550885
+
+2019-10-20 13:59:06,540 INFO send udp packet: 192.168.15.23,64572,21634059550885
+
+2019-10-20 13:59:06,540 INFO serviceName: DEFAULT_GROUP@@sms-service changed, schedule push for: 192.168.15.23:52638, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,52638,21634059550885
+
+2019-10-20 13:59:06,540 INFO send udp packet: 192.168.15.23,52638,21634059550885
+
+2019-10-20 13:59:06,540 INFO serviceName: DEFAULT_GROUP@@sms-service changed, schedule push for: 192.168.15.23:57215, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,57215,21634059550885
+
+2019-10-20 13:59:06,540 INFO send udp packet: 192.168.15.23,57215,21634059550885
+
+2019-10-20 13:59:06,541 INFO serviceName: DEFAULT_GROUP@@sms-service changed, schedule push for: 192.168.15.23:62765, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,62765,21634059550885
+
+2019-10-20 13:59:06,541 INFO send udp packet: 192.168.15.23,62765,21634059550885
+
+2019-10-20 13:59:06,541 INFO serviceName: DEFAULT_GROUP@@sms-service changed, schedule push for: 192.168.15.23:57198, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,57198,21634059550885
+
+2019-10-20 13:59:06,541 INFO send udp packet: 192.168.15.23,57198,21634059550885
+
+2019-10-20 13:59:06,543 INFO received ack: {"type": "push-ack", "lastRefTime":"21634059550885", "data":""} from: 192.168.15.23:, cost: 55837 ms, unacked: 4, total push: 5
+
+2019-10-20 13:59:06,544 INFO received ack: {"type": "push-ack", "lastRefTime":"21634059550885", "data":""} from: 192.168.15.23:, cost: 62765 ms, unacked: 3, total push: 4
+
+2019-10-20 13:59:06,545 INFO received ack: {"type": "push-ack", "lastRefTime":"21634059550885", "data":""} from: 192.168.15.23:, cost: 64572 ms, unacked: 5, total push: 3
+
+2019-10-20 13:59:06,545 INFO received ack: {"type": "push-ack", "lastRefTime":"21634059550885", "data":""} from: 192.168.15.23:, cost: 57198 ms, unacked: 4, total push: 2
+
+2019-10-20 13:59:06,545 INFO received ack: {"type": "push-ack", "lastRefTime":"21634059550885", "data":""} from: 192.168.15.23:, cost: 52638 ms, unacked: 5, total push: 1
+
+2019-10-20 13:59:06,546 INFO received ack: {"type": "push-ack", "lastRefTime":"21634059550885", "data":""} from: 192.168.15.23:, cost: 57215 ms, unacked: 6, total push: 0
+
+2019-10-20 13:59:06,546 INFO DEFAULT_GROUP@@pms-service is changed, add it to push queue.
+
+2019-10-20 13:59:06,546 INFO serviceName: DEFAULT_GROUP@@pms-service changed, schedule push for: 192.168.15.23:64572, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,64572,21634069335671
+
+2019-10-20 13:59:06,546 INFO send udp packet: 192.168.15.23,64572,21634069335671
+
+2019-10-20 13:59:06,548 INFO received ack: {"type": "push-ack", "lastRefTime":"21634069335671", "data":""} from: 192.168.15.23:, cost: 64572 ms, unacked: 2, total push: 0
+
+2019-10-20 13:59:06,551 INFO serviceName: DEFAULT_GROUP@@pms-service changed, schedule push for: 192.168.15.23:62765, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,62765,21634069335671
+
+2019-10-20 13:59:06,551 INFO send udp packet: 192.168.15.23,62765,21634069335671
+
+2019-10-20 13:59:06,551 INFO serviceName: DEFAULT_GROUP@@pms-service changed, schedule push for: 192.168.15.23:55837, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,55837,21634069335671
+
+2019-10-20 13:59:06,551 INFO send udp packet: 192.168.15.23,55837,21634069335671
+
+2019-10-20 13:59:06,552 INFO serviceName: DEFAULT_GROUP@@pms-service changed, schedule push for: 192.168.15.23:57198, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,57198,21634069335671
+
+2019-10-20 13:59:06,552 INFO send udp packet: 192.168.15.23,57198,21634069335671
+
+2019-10-20 13:59:06,552 INFO serviceName: DEFAULT_GROUP@@pms-service changed, schedule push for: 192.168.15.23:57215, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,57215,21634069335671
+
+2019-10-20 13:59:06,552 INFO send udp packet: 192.168.15.23,57215,21634069335671
+
+2019-10-20 13:59:06,552 INFO serviceName: DEFAULT_GROUP@@pms-service changed, schedule push for: 192.168.15.23:52638, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,52638,21634069335671
+
+2019-10-20 13:59:06,552 INFO send udp packet: 192.168.15.23,52638,21634069335671
+
+2019-10-20 13:59:06,552 INFO DEFAULT_GROUP@@gateway-api is changed, add it to push queue.
+
+2019-10-20 13:59:06,553 INFO serviceName: DEFAULT_GROUP@@gateway-api changed, schedule push for: 192.168.15.23:55837, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,55837,21634076041460
+
+2019-10-20 13:59:06,553 INFO send udp packet: 192.168.15.23,55837,21634076041460
+
+2019-10-20 13:59:06,553 INFO serviceName: DEFAULT_GROUP@@gateway-api changed, schedule push for: 192.168.15.23:57198, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,57198,21634076041460
+
+2019-10-20 13:59:06,553 INFO send udp packet: 192.168.15.23,57198,21634076041460
+
+2019-10-20 13:59:06,553 INFO serviceName: DEFAULT_GROUP@@gateway-api changed, schedule push for: 192.168.15.23:64572, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,64572,21634076041460
+
+2019-10-20 13:59:06,553 INFO send udp packet: 192.168.15.23,64572,21634076041460
+
+2019-10-20 13:59:06,553 INFO serviceName: DEFAULT_GROUP@@gateway-api changed, schedule push for: 192.168.15.23:62765, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,62765,21634076041460
+
+2019-10-20 13:59:06,553 INFO send udp packet: 192.168.15.23,62765,21634076041460
+
+2019-10-20 13:59:06,553 INFO serviceName: DEFAULT_GROUP@@gateway-api changed, schedule push for: 192.168.15.23:52638, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,52638,21634076041460
+
+2019-10-20 13:59:06,553 INFO send udp packet: 192.168.15.23,52638,21634076041460
+
+2019-10-20 13:59:06,554 INFO serviceName: DEFAULT_GROUP@@gateway-api changed, schedule push for: 192.168.15.23:57215, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,57215,21634076041460
+
+2019-10-20 13:59:06,554 INFO send udp packet: 192.168.15.23,57215,21634076041460
+
+2019-10-20 13:59:06,554 INFO DEFAULT_GROUP@@ums-service is changed, add it to push queue.
+
+2019-10-20 13:59:06,554 INFO serviceName: DEFAULT_GROUP@@ums-service changed, schedule push for: 192.168.15.23:64572, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,64572,21634077278263
+
+2019-10-20 13:59:06,554 INFO send udp packet: 192.168.15.23,64572,21634077278263
+
+2019-10-20 13:59:06,554 INFO serviceName: DEFAULT_GROUP@@ums-service changed, schedule push for: 192.168.15.23:55837, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,55837,21634077278263
+
+2019-10-20 13:59:06,554 INFO send udp packet: 192.168.15.23,55837,21634077278263
+
+2019-10-20 13:59:06,554 INFO serviceName: DEFAULT_GROUP@@ums-service changed, schedule push for: 192.168.15.23:57198, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,57198,21634077278263
+
+2019-10-20 13:59:06,554 INFO send udp packet: 192.168.15.23,57198,21634077278263
+
+2019-10-20 13:59:06,554 INFO serviceName: DEFAULT_GROUP@@ums-service changed, schedule push for: 192.168.15.23:57215, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,57215,21634077278263
+
+2019-10-20 13:59:06,554 INFO send udp packet: 192.168.15.23,57215,21634077278263
+
+2019-10-20 13:59:06,555 INFO serviceName: DEFAULT_GROUP@@ums-service changed, schedule push for: 192.168.15.23:52638, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,52638,21634077278263
+
+2019-10-20 13:59:06,555 INFO send udp packet: 192.168.15.23,52638,21634077278263
+
+2019-10-20 13:59:06,555 INFO serviceName: DEFAULT_GROUP@@ums-service changed, schedule push for: 192.168.15.23:62765, agent: Nacos-Java-Client:v1.0.0, key: 192.168.15.23,62765,21634077278263
+
+2019-10-20 13:59:06,555 INFO send udp packet: 192.168.15.23,62765,21634077278263
+
+2019-10-20 13:59:06,561 INFO received ack: {"type": "push-ack", "lastRefTime":"21634076041460", "data":""} from: 192.168.15.23:, cost: 64572 ms, unacked: 8, total push: 16
+
+2019-10-20 13:59:06,561 INFO received ack: {"type": "push-ack", "lastRefTime":"21634069335671", "data":""} from: 192.168.15.23:, cost: 62765 ms, unacked: 10, total push: 15
+
+2019-10-20 13:59:06,562 INFO received ack: {"type": "push-ack", "lastRefTime":"21634076041460", "data":""} from: 192.168.15.23:, cost: 62765 ms, unacked: 9, total push: 14
+
+2019-10-20 13:59:06,562 INFO received ack: {"type": "push-ack", "lastRefTime":"21634077278263", "data":""} from: 192.168.15.23:, cost: 62765 ms, unacked: 7, total push: 13
+
+2019-10-20 13:59:06,574 INFO received ack: {"type": "push-ack", "lastRefTime":"21634069335671", "data":""} from: 192.168.15.23:, cost: 57215 ms, unacked: 22, total push: 12
+
+2019-10-20 13:59:06,574 INFO received ack: {"type": "push-ack", "lastRefTime":"21634069335671", "data":""} from: 192.168.15.23:, cost: 52638 ms, unacked: 22, total push: 11
+
+2019-10-20 13:59:06,574 INFO received ack: {"type": "push-ack", "lastRefTime":"21634069335671", "data":""} from: 192.168.15.23:, cost: 57198 ms, unacked: 22, total push: 10
+
+2019-10-20 13:59:06,574 INFO received ack: {"type": "push-ack", "lastRefTime":"21634069335671", "data":""} from: 192.168.15.23:, cost: 55837 ms, unacked: 23, total push: 9
+
+2019-10-20 13:59:06,575 INFO received ack: {"type": "push-ack", "lastRefTime":"21634076041460", "data":""} from: 192.168.15.23:, cost: 52638 ms, unacked: 22, total push: 8
+
+2019-10-20 13:59:06,576 INFO received ack: {"type": "push-ack", "lastRefTime":"21634076041460", "data":""} from: 192.168.15.23:, cost: 57215 ms, unacked: 22, total push: 7
+
+2019-10-20 13:59:06,577 INFO received ack: {"type": "push-ack", "lastRefTime":"21634077278263", "data":""} from: 192.168.15.23:, cost: 52638 ms, unacked: 22, total push: 6
+
+2019-10-20 13:59:06,577 INFO received ack: {"type": "push-ack", "lastRefTime":"21634077278263", "data":""} from: 192.168.15.23:, cost: 57215 ms, unacked: 23, total push: 5
+
+2019-10-20 13:59:06,577 INFO received ack: {"type": "push-ack", "lastRefTime":"21634076041460", "data":""} from: 192.168.15.23:, cost: 57198 ms, unacked: 24, total push: 4
+
+2019-10-20 13:59:06,579 INFO received ack: {"type": "push-ack", "lastRefTime":"21634077278263", "data":""} from: 192.168.15.23:, cost: 57198 ms, unacked: 25, total push: 3
+
+2019-10-20 13:59:06,580 INFO received ack: {"type": "push-ack", "lastRefTime":"21634076041460", "data":""} from: 192.168.15.23:, cost: 55837 ms, unacked: 27, total push: 2
+
+2019-10-20 13:59:06,581 INFO received ack: {"type": "push-ack", "lastRefTime":"21634077278263", "data":""} from: 192.168.15.23:, cost: 55837 ms, unacked: 27, total push: 1
+
+2019-10-20 13:59:06,588 INFO received ack: {"type": "push-ack", "lastRefTime":"21634077278263", "data":""} from: 192.168.15.23:, cost: 64572 ms, unacked: 34, total push: 0
+
+2019-10-20 14:00:11,978 INFO DEFAULT_GROUP@@sms-service is changed, add it to push queue.
+
+2019-10-20 14:00:11,978 INFO DEFAULT_GROUP@@gateway-api is changed, add it to push queue.
+
+2019-10-20 14:00:11,978 INFO DEFAULT_GROUP@@auth-service is changed, add it to push queue.
+
+2019-10-20 14:00:11,978 INFO DEFAULT_GROUP@@cart-service is changed, add it to push queue.
+
+2019-10-20 14:00:11,978 INFO DEFAULT_GROUP@@ums-service is changed, add it to push queue.
+
+2019-10-20 14:00:11,986 INFO DEFAULT_GROUP@@pms-service is changed, add it to push queue.
+
+2019-10-20 14:00:26,992 INFO DEFAULT_GROUP@@auth-service is changed, add it to push queue.
+
+2019-10-20 14:00:26,992 INFO DEFAULT_GROUP@@cart-service is changed, add it to push queue.
+
+2019-10-20 14:00:26,993 INFO DEFAULT_GROUP@@gateway-api is changed, add it to push queue.
+
+2019-10-20 14:00:26,993 INFO DEFAULT_GROUP@@ums-service is changed, add it to push queue.
+
+2019-10-20 14:00:26,995 INFO DEFAULT_GROUP@@sms-service is changed, add it to push queue.
+
+2019-10-20 14:00:26,998 INFO DEFAULT_GROUP@@pms-service is changed, add it to push queue.
+
